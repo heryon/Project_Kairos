@@ -108,9 +108,21 @@ A modelagem temporal contínua e multiescalar, portanto, não representa apenas 
 
 Em mercados financeiros parcialmente observáveis, os agentes não têm acesso direto às variáveis latentes que governam a dinâmica dos preços, como o nível efetivo de risco, o grau de alavancagem implícita, a pressão compradora ou vendedora e a transição entre regimes de volatilidade. Nesse contexto, os indicadores técnicos podem ser interpretados como projeções observáveis e imperfeitas desses estados latentes, construídas a partir de transformações estatísticas dos preços e volumes. Sua relevância decorre não apenas de suas propriedades matemáticas, mas também do fato de constituírem uma linguagem operacional amplamente compartilhada pelos participantes do mercado.
 
+<p align="center">
+  <img src="https://github.com/heryon/Project_Kairos/blob/611d4a500b78531fdab357750fb7fba2ea148b97/Bollinger_Bands.png" width="40%" />
+  <img src="https://github.com/heryon/Project_Kairos/blob/611d4a500b78531fdab357750fb7fba2ea148b97/Keltner_Channels.png" width="40%" />
+</p>
+
 As Bandas de Bollinger e os Keltner Channels são exemplos clássicos de indicadores que projetam informações relacionadas à volatilidade e à estrutura de dispersão dos preços. As Bandas de Bollinger utilizam o desvio padrão como medida de variabilidade, permitindo identificar períodos de compressão e expansão da volatilidade, frequentemente associados a transições de regime. Já os Keltner Channels, baseados na média do True Range, oferecem uma medida alternativa e mais robusta à presença de ruído extremo. A convergência ou divergência entre esses dois indicadores tem sido interpretada, na prática, como um sinal de contração ou liberação de energia informacional no mercado, refletindo mudanças latentes na dinâmica de risco (Murphy, 1999; Pring, 2002).
 
+<p align="center">
+  <img src="https://github.com/heryon/Project_Kairos/blob/611d4a500b78531fdab357750fb7fba2ea148b97/Fractais.png" width=40%/>
+</p>
 Os fractais, por sua vez, atuam como indicadores de estrutura local do preço. Ao identificar padrões recorrentes de máximas e mínimas relativas, eles fornecem pistas sobre pontos potenciais de reversão ou continuação de tendência. Em termos teóricos, os fractais podem ser vistos como projeções discretas de propriedades auto-similares do processo de formação de preços, capturando informações sobre a organização local do mercado e a interação entre diferentes horizontes temporais. Sua utilidade está menos na previsão direta e mais na identificação de regiões estruturais relevantes do espaço de estados.
+
+<p align="center">
+  <img src="https://github.com/heryon/Project_Kairos/blob/611d4a500b78531fdab357750fb7fba2ea148b97/RSI_Pink.png" width=40%/>
+</p>
 
 O uso de múltiplos índices de força relativa (RSI) em diferentes janelas temporais amplia a robustez da mensuração de sobrecompra e sobrevenda. Enquanto um único RSI pode ser sensível a ruído específico de uma escala temporal, a combinação de múltiplos horizontes permite inferir de forma mais estável a pressão acumulada de compra ou venda. Essa abordagem multiescalar reforça a interpretação do RSI como uma projeção imperfeita do balanço entre oferta e demanda latentes, condicionada ao regime temporal observado.
 
