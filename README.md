@@ -1,6 +1,10 @@
 # Projeto Kairos  
 **Título provisório:**  
-*Arcabouço Teórico para Decisão Seletiva em Mercados Financeiros*
+*Arcabouço para Decisão Seletiva em Mercados Financeiros*
+
+<p align="center">
+  <img src="https://github.com/heryon/Project_Kairos/blob/1dd66ed6d11b1096fce09f35bf66dc3c46edeb0f/Kairos.jpg"/>
+</p>
 
 ---
 
