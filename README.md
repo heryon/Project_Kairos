@@ -1,6 +1,6 @@
 # Projeto Kairos  
 **Título provisório:**  
-*Um Arcabouço Teórico para Decisão Seletiva em Mercados Financeiros Não Estacionários Baseado em Informação, Regimes, Simulação e Aprendizado por Reforço Profundo*
+*Arcabouço Teórico para Decisão Seletiva em Mercados Financeiros*
 
 ---
 
