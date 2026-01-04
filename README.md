@@ -134,6 +134,10 @@ A integração de indicadores técnicos em sistemas de decisão baseados em apre
 
 ## 8. Estratégia de Takashi Kotegawa como Evidência Empírica e Princípio Seletivo
 
+<p align="center">
+  <img src="https://github.com/heryon/Project_Kairos/blob/6303e59c3829c6a750757b4d8ddc0ed4c1f606e2/Takashi_Kotegawa.jpeg" width=40%/>
+</p>
+
 A trajetória de Takashi Kotegawa, conhecido como BNF, constitui um dos casos empíricos mais documentados de sucesso consistente em trading discricionário de alta frequência e curto prazo. Longe de representar um conjunto de regras mecanicistas, sua estratégia pode ser interpretada como a materialização prática de princípios teóricos fundamentais relacionados à seletividade extrema, adaptação a regimes de mercado e maximização de utilidade econômica sob risco. Nesse sentido, a estratégia de Kotegawa fornece evidência empírica concreta de que a decisão ótima em mercados financeiros não consiste em atuar continuamente, mas em filtrar agressivamente o espaço de oportunidades.
 
 Um dos aspectos centrais de sua abordagem é a seletividade extrema de trades. Kotegawa operava apenas em janelas temporais específicas, caracterizadas por elevada liquidez, volatilidade e assimetria informacional, frequentemente associadas a eventos de estresse ou desequilíbrio momentâneo do mercado. Essa prática está alinhada com a Hipótese dos Mercados Adaptativos, segundo a qual oportunidades surgem de forma esporádica, dependente do regime e do comportamento coletivo dos agentes (Lo, 2004). Assim, a maior parte do tempo é dedicada à observação e à abstenção, reduzindo a exposição a regiões do espaço de estados onde a utilidade esperada é próxima de zero ou negativa.
